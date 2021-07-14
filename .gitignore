@@ -34,4 +34,4 @@ gradlew.bat
 .settings/
 .classpath
 .project
-/test/resources
+/test/resources/
